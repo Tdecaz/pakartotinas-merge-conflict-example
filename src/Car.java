@@ -1,8 +1,11 @@
 public class Car {
 
     private String name;
-    private double price;
-    private int quantity;
+    private String model;
+   // private double price;
+   // private int quantity;
+
+
     Car(String name) {
 
         {
