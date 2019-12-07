@@ -1,6 +1,6 @@
 public class Car {
 
-    private String name;
+//    private String name;
     private String model;
    // private double price;
    // private int quantity;
@@ -8,9 +8,9 @@ public class Car {
 
     Car(String name) {
 
-        {
+     /*   {
             this.price = price;
-            this.name = name;
+            this.name = name;*/
             this.quantity = quantity;
     }
     }
