@@ -1,8 +1,21 @@
 public class Car {
 
-    private String model;
-    public Car(String model);
+    private String name;
+    private double price;
 
-    kaip grazu miske
+    Car(String name) {
 
+        {
+            this.price = price;
+            this.name = name;
+    }
+    }
+    public String getName() {
+        return name;
+    }
+
+    public double getPrice() {
+        return price;
+    }
 }
+
