@@ -1,7 +1,9 @@
 public class Car {
 
-    private String model;
-    public Car(String model);
+    private String mame;
+    public Car(String model) {
+
+    }
 
     kaip grazu miske
 
